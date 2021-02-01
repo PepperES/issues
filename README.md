@@ -5,7 +5,7 @@ Este es un repositorio público para gestionar las incidencias ajenas/externas a
 Plantilla para envío de incidencias
 
 ---
-
+```
 <Pon un título a la incidencia (issue) que de una idea general>
 
 ## Comportamiento actual
@@ -36,5 +36,5 @@ Plantilla para envío de incidencias
 * Version usada:
 * Navegador y su versión:
 * Sistema operativo y su versión:
-
+```
 ---
